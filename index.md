@@ -1,6 +1,10 @@
 ## Welcome to Birbigs.biz
 
-You can use the [editor on GitHub](https://github.com/egchristiansen/birbigs.biz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> I feel you can tell a lot from a URL.  I feel like .com means like they're in it to win it, .net means they're late to the game, .org means they're in it for the right reasons and you may be recieving a tote bag, .tv means they were confused about the Internet in 2005, and .biz means this domain is available. I would never put my credit card into a .biz. I would only go to a .biz on a computer at a public library.
+
+![Mike Birbiglia](https://upload.wikimedia.org/wikipedia/commons/1/10/Mike_Birbiglia.jpg)
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
