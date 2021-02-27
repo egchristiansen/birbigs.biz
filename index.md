@@ -12,6 +12,7 @@ Wow, you sure made a mistake coming here...
 >
 >*I would never put my credit card into a .biz. I would only go to a .biz on a computer at a public library. ~ Mike Birbilgia*
 
+
 ![Birbiglia](/images/Birbigs1.png)
 
 ## All we need is your credit card number
