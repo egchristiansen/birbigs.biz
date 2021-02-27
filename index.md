@@ -33,6 +33,10 @@ Head on over to **[Birbigs.com](https://www.birbigs.com/)** to find out what Mik
 
 And remember, don't trust a website with .biz...
 
+<br />
+
+![Fucksatawny Phil](/images/fucksatawny-phil.jpeg)
+
 ------------------
 <br />
 
