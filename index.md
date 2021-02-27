@@ -12,7 +12,11 @@ Wow, you sure made a mistake coming here...
 
 <br />
 
-> *I feel you can tell a lot from a URL.  I feel like .com means like they're in it to win it, .net means they're late to the game, .org means they're in it for the right reasons and you may be recieving a tote bag, .tv means they were confused about the Internet in 2005, and .biz means this domain is available. I would never put my credit card into a .biz. I would only go to a .biz on a computer at a public library. ~ Mike Birbilgia*
+> *I feel you can tell a lot from a URL.*  
+>
+>*I feel like .com means like they're in it to win it, .net means they're late to the game, .org means they're in it for the right reasons and you may be recieving a tote bag, .tv means they were confused about the Internet in 2005, and .biz means this domain is available.*
+>
+>*I would never put my credit card into a .biz. I would only go to a .biz on a computer at a public library. ~ Mike Birbilgia*
 
 <br />
 
