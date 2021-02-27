@@ -2,8 +2,6 @@
 
 Wow, you sure made a mistake coming here...
 
-
-
 ## What's with .biz?
 
 ![man shrug](/images/man-shrugging_1f937-200d-2642-fe0f.png)
@@ -20,12 +18,8 @@ Wow, you sure made a mistake coming here...
 
 ![credit card](/images/credit-card_1f4b3.png)
 
-
-
 Just kidding! You'd have to be nuts to visit a .biz... unless you're on a public library computer.
 
 ![finger pointing down](images/backhand-index-pointing-down_1f447.png)
-
-
 
 Head on over to [Birbigs.com](https://www.birbigs.com/) to find out what Mike Birbiglia is up to.
