@@ -6,7 +6,7 @@ Wow, you sure made a mistake coming here...
 
 ![man shrug](/images/man-shrugging_1f937-200d-2642-fe0f.png)
 
-> *I feel you can tell a lot from a URL.*  
+> *I feel like you can tell a lot from a URL.*  
 >
 >*I feel like .com means like they're in it to win it, .net means they're late to the game, .org means they're in it for the right reasons and you may be recieving a tote bag, .tv means they were confused about the Internet in 2005, and .biz means this domain is available.*
 >
