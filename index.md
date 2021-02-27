@@ -16,7 +16,9 @@ Wow, you sure made a mistake coming here...
 
 <br />
 
-<img src="images/Birbigs1.png">
+![Birbiglia](/images/Birbigs1.png)
+
+<br />
 
 ## All we need is your credit card number
 
