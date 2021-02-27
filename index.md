@@ -15,6 +15,7 @@ Wow, you sure made a mistake coming here...
 
 ![Birbiglia](/images/Birbigs1.png)
 
+
 ## All we need is your credit card number
 
 ![credit card](/images/credit-card_1f4b3.png)
