@@ -10,14 +10,13 @@ Wow, you sure made a mistake coming here...
 >
 >*I feel like .com means like they're in it to win it, .net means they're late to the game, .org means they're in it for the right reasons and you may be recieving a tote bag, .tv means they were confused about the Internet in 2005, and .biz means this domain is available.*
 >
->*I would never put my credit card into a .biz. I would only go to a .biz on a computer at a public library. 
+>*I would never put my credit card into a .biz. I would only go to a .biz on a computer at a public library.* 
 >
->~ Mike Birbilgia*
+>~ [Mike Birbilgia](https://twitter.com/birbigs/status/1362806141928017925)
 
 <br />
 
 ![Birbiglia](/images/Birbigs1.png)
-
 
 ## All we need is your credit card number
 
@@ -25,6 +24,16 @@ Wow, you sure made a mistake coming here...
 
 Just kidding! You'd have to be nuts to visit a .biz... unless you're on a public library computer.
 
-![finger pointing down](images/backhand-index-pointing-down_1f447.png)
+<br />
 
-Head on over to [Birbigs.com](https://www.birbigs.com/) to find out what Mike Birbiglia is up to.
+ ![finger pointing down](images/backhand-index-pointing-down_1f447.png)
+ ![finger pointing down](images/backhand-index-pointing-down_1f447.png)
+
+Head on over to **[Birbigs.com](https://www.birbigs.com/)** to find out what Mike Birbiglia is up to.
+
+And remember, don't trust a website with .biz...
+
+------------------
+<br />
+
+(Website created by [Erik Christiansen](https://erikchristiansen.net/))
