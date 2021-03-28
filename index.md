@@ -32,8 +32,3 @@ Just kidding! You'd have to be nuts to visit a .biz... unless you're on a public
 Head on over to **[Birbigs.com](https://www.birbigs.com/)** to find out what Mike Birbiglia is up to.
 
 And remember, don't trust a website with .biz...
-
-------------------
-<br />
-
-(Website created by [Erik Christiansen](https://erikchristiansen.net/))
